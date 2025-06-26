@@ -30,9 +30,6 @@ Fixed a **delay in sound effect** by:
 ## 📷 Preview
 ![Screenshot 2025-06-26 153513](https://github.com/user-attachments/assets/4530fba1-9c8c-4095-883f-83fc222ab178)
 
-![Screenshot 2025-06-26 153513](https://github.com/user-attachments/assets/5454afaa-6212-40ff-a68e-79d431716971)
-![Screenshot 2025-06-26 153513](https://github.com/user-attachments/assets/5454afaa-6212-40ff-a68e-79d431716971)
-
 
 
 ## 🙌 Author
